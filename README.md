@@ -1,4 +1,4 @@
-# image-processing-ReactJS
+# Image Processing in Javascript
 A small ReactJS application on implement basic features for image processing.
 
 ## Install node before starting this project
