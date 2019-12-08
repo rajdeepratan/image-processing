@@ -1,9 +1,19 @@
-# Image Processing in Javascript
+## Image Processing in Javascript
 A small ReactJS application on implement basic features for image processing.
 
-## Install node before starting this project
+## Requirements
 
-## To Start the project
-1. Install node_modules: `npm install` or `yran install`
-2. Start the project: `npm start` or `yarn start`
-3. The project will run on `localhost:3000` as default.
+- Node and npm
+
+## Installation
+
+- Clone the repo: `git clone https://github.com/rajdeepratan/image-processing.git`
+- Install dependencies: `npm install`
+
+##  How to get started!
+
+ - run `npm start` from the home directory.
+
+
+
+Enjoy the application
